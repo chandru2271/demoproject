@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="1.016">
+    <testcase classname="passing the datas at step level" name="user passing the datas" time="0.095">
+        <system-out><![CDATA[Given user sending the datas at step level for orngehrm page................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="passing the datas at step level" name="user passing multiple datas" time="0.038">
+        <system-out><![CDATA[Given user passing dates at step level......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="passing the datas at step level" name="header with single values" time="0.007">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+</testsuite>
